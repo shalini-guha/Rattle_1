@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "571499099234",
+    "firebase_url": "https://rattle-63291.firebaseio.com",
+    "project_id": "rattle-63291",
+    "storage_bucket": "rattle-63291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571499099234:android:4f7df2428078a1c8",
+        "android_client_info": {
+          "package_name": "com.zlalini.rattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571499099234-eujuionoik9qhi2696n06c7sd6r9seak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWbRQc-gse0T5XLzByHFaB4N84lI0azQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

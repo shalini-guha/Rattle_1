@@ -1,0 +1,4 @@
+#Thu Apr 11 23:34:09 IST 2019
+base.0=C\:\\Users\\Zlalini\\Desktop\\Rattle\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
